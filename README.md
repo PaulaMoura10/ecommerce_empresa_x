@@ -25,3 +25,6 @@ __melhorias1__, _melhorias2_, melhorias3
    3. CSS diferente do grupo de Clientes
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+### Imagem Local
+![Logo Da Paula](img/Gemini_Generated_Image_cxjp21cxjp21cxjp.png)
