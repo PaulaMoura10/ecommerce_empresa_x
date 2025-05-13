@@ -20,8 +20,8 @@ __melhorias1__, _melhorias2_, melhorias3
 ### Funcionalidades a desenvolver:
 
 1. Área de membros
-  1. Login diferentes para grupos de membros
-  2. Desconto especcial para grupos de clientes
-  3. CSS diferente do grupo de Clientes
+   1. Login diferentes para grupos de membros
+   2. Desconto especcial para grupos de clientes
+   3. CSS diferente do grupo de Clientes
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
