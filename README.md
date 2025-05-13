@@ -2,8 +2,8 @@
 Este é **ecommerce** da *empresa x* feit PHP e Mysql
 
 ## Funcionalidades:
-
-checkout, tela de produtos, catálago, home com banner
+_checkout,**tela de produtos**, Cátalogo, home com banner_
+**checkout,_tela de produtos_, Cátalogo, home com banner**
 
 ###### Melhorias
-melhorias1, melhorias2, melhorias3
+__melhorias1__, _melhorias2_, melhorias3
